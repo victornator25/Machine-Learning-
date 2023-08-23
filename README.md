@@ -1,2 +1,3 @@
-# 3D-Fourier-Reconstruction
-In this repository I use the Fourier transform for 3D image reconstruction 
+# Machine Learning Course
+Professor: Luis Carlos Padierna García
+Universidad de Guanajuato, División de Ciencias e Ingenierías

@@ -5,7 +5,7 @@ Victor Manuel Gonzalez Aguayo
 Machine Learning ago-dic 2023
 Catedratico: Luis Carlos Padierna
 
-Práctica Autónoma 5: Comparador de Clasificadores
+Práctica Autónoma 5: Comparador de Clasificadores Feature Maps
 """
 
 from keras.applications.vgg16 import VGG16
